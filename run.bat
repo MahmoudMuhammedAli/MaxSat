@@ -1,0 +1,1 @@
+java -jar sat4j-maxsat.jar

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sat4j-maxsat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sat4j-maxsat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
